@@ -1,6 +1,7 @@
-_
-.idea
-mi
-stop
-reports.egg-info
-__pycache__
+/_
+/.idea
+/mi
+/stop
+/reports.egg-info
+/__pycache__
+/data/mi
